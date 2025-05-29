@@ -1,11 +1,11 @@
 :root {
-    --text-color: #e0e4e9;
-    --card-front-color: #1a1a1b;
-    --card-back-color: #004df4;
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background:black;
     font-family: Bai Jamjuree;
 }
 
@@ -25,7 +25,7 @@ body {
 }
 
 .cartao__conteudo {
-    background-color: var(--card-front-color);
+    background-color:blue;
     text-align: center;
     /* background-color: aquamarine; */
     height: 100%;
@@ -83,7 +83,7 @@ body {
 
 footer {
     background-color: black;
-    color: rgb(24, 22, 22);
+    color: white;
     position: fixed;
     bottom: 0;
     width: 100%;
